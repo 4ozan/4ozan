@@ -9,10 +9,6 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
 [![Follow on Instagram](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vawzensm/)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://gh.linkedin.com/in/fawuzan-ibrahim-489565303)
 
-## About Me
-
-I develop impactful web applications and blockchain solutions. Whether it's creating a dynamic web app or a secure smart contract, I'm up for the challenge.
-
 ### Skills
 
 - **Web Development**:  
@@ -29,14 +25,8 @@ I develop impactful web applications and blockchain solutions. Whether it's crea
 - **Other Technologies**:  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Featured Video
-
-Check out my latest video on YouTube:
-
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-[![Subscribe to My Channel](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vawzensm)
 
