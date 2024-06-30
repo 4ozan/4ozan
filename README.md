@@ -13,10 +13,11 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Internet Computer Protocol (ICP)](https://img.shields.io/badge/Internet%20Computer%20Protocol-444444?style=for-the-badge&logoColor=white)
+  ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Internet Computer Protocol (ICP)](https://img.shields.io/badge/Internet%20Computer%20Protocol-444444?style=for-the-badge&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - **Blockchain Development**:  
