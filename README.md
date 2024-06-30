@@ -13,6 +13,7 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![Generative AI](https://img.shields.io/badge/Generative%20AI-35465C?style=for-the-badge&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
