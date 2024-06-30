@@ -13,10 +13,9 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-  ![Internet Computer Protocol (ICP)](https://img.shields.io/badge/Internet%20Computer%20Protocol-444444?style=for-the-badge&logoColor=white)
-  ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Internet Computer Protocol (ICP)](https://img.shields.io/badge/Internet%20Computer%20Protocol-444444?style=for-the-badge&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=ethereum&logoColor=white) ![Ethers.js] 
+  (https://img.shields.io/badge/Ethers.js-3498DB?style=for-the-badge&logoColor=white)
+ ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - **Blockchain Development**:  
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
