@@ -21,6 +21,7 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
 - **Blockchain Development**:  
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+   ![Generative AI](https://img.shields.io/badge/Generative%20AI-35465C?style=for-the-badge&logoColor=white)
 
 - **Other Technologies**:  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
