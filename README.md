@@ -9,21 +9,10 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
 [![Follow on Instagram](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vawzensm/)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://gh.linkedin.com/in/fawuzan-ibrahim-489565303)
 
-### Skills
 
-- **Web Development**:  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Tools/Frameworks**:  
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-- **Blockchain Development**:  
-  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-   ![Generative AI](https://img.shields.io/badge/Generative%20AI-35465C?style=for-the-badge&logoColor=white)
-
-- **Other Technologies**:  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
    ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
@@ -31,3 +20,10 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+- **Blockchain Development**:  
+  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+   ![Generative AI](https://img.shields.io/badge/Generative%20AI-35465C?style=for-the-badge&logoColor=white)
+
+
+  
