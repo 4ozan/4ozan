@@ -9,7 +9,6 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
 [![Follow on Instagram](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vawzensm/)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://gh.linkedin.com/in/fawuzan-ibrahim-489565303)
 
-
 - **Tools/Frameworks**:  
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -18,9 +17,6 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
    ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **Generative AI**:  
-  ![Generative AI](https://img.shields.io/badge/Generative%20AI-35465C?style=for-the-badge&logoColor=white)
 
 - **Blockchain Development**:  
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
