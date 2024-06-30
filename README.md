@@ -3,7 +3,7 @@
 
 I'm a passionate developer specializing in web and blockchain technologies. I turn complex problems into simple, beautiful, and intuitive solutions.
 
-## Connect with Me
+## Reach out
 
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vawzensm)
 [![Follow on Instagram](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vawzensm/)
