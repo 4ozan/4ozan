@@ -16,6 +16,7 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![Generative AI](https://img.shields.io/badge/Generative%20AI-35465C?style=for-the-badge&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - **Ethereum Smart Contracts Development**:  
