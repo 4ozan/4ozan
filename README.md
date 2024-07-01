@@ -9,7 +9,7 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
 [![Read my Medium blog](https://img.shields.io/badge/Read%20my%20blog-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ibrahimpima76)
 
 
-### Skills/tools/frameworks
+### Skills| tools |frameworks
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
