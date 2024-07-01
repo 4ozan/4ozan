@@ -8,7 +8,8 @@ I'm a passionate developer specializing in web and blockchain technologies. I tu
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://gh.linkedin.com/in/fawuzan-ibrahim-489565303)
 [![Read my Medium blog](https://img.shields.io/badge/Read%20my%20blog-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ibrahimpima76)
 
--**Tools/Frameworks**-
+
+-**Tools/Frameworks**:
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
