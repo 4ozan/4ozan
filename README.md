@@ -7,8 +7,7 @@ I enjoy creating solutions to problems using code.
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
-<a href="https://twitter.com/symelcruzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elcruzo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elcruzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elcruzo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahimfawuzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimfawuzan" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
