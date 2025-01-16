@@ -1,6 +1,6 @@
 <h1> Hello, nice to meet you, I'm <strong style="color:#41ded3">Fawuzan!</strong>  😄</h1>
 
-![ASUS ROG Strix G16 G614JZ](https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2024/gallery/ "ASUS ROG Strix G16 G614JZ")
+
 
 <p> I'm a Software  Engineer, passionate about Backend operations while creating reasonable frontends with JavaScript, and my two favorite forms of art: coding and gaming!</p>
 <hr>
