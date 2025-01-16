@@ -1,6 +1,5 @@
 <h1> Hello, nice to meet you, I'm <strong style="color:#41ded3">Fawuzan!</strong>  😄</h1>
 
-<img style="padding:10px" align="right" width="220" src="https://www.carousell.com.my/p/asus-rog-strix-with-gtx1650ti-gaming-laptop-1343013777/">
 
 <p> I'm a Software  Engineer, passionate about Backend operations while creating reasonable frontends with JavaScript, and my two favorite forms of art: coding and gaming!</p>
 <hr>
@@ -10,7 +9,7 @@ I have 3+ years of experience in the software industry, where I have undertaken 
 
 [![Fawuzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fawuzantech&hide=stars&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true)](https://github.com/fawuzantech/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="elcruzo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="Pima" /> </p>
 
 <center>
 
