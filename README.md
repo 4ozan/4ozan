@@ -1,6 +1,6 @@
 <h1> Hello, nice to meet you, I'm <strong style="color:#41ded3">Fawuzan!</strong>  😄</h1>
 
-<img style="padding:10px" align="right" width="220" src="https://i.pinimg.com/originals/d9/bb/49/d9bb49ceafc6488856d774d62fdfa478.jpg">
+<img style="padding:10px" align="right" width="220" src="https://www.carousell.com.my/p/asus-rog-strix-with-gtx1650ti-gaming-laptop-1343013777/">
 
 <p> I'm a Software  Engineer, passionate about Backend operations while creating reasonable frontends with JavaScript, and my two favorite forms of art: coding and gaming!</p>
 <hr>
