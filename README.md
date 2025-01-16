@@ -1,5 +1,3 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <h1> Hello, nice to meet you, I'm <strong style="color:#41ded3">Lucas!</strong>  😄</h1>
 
 <img style="padding:10px" align="right" width="220" src="https://i.pinimg.com/originals/d9/bb/49/d9bb49ceafc6488856d774d62fdfa478.jpg">
@@ -7,7 +5,7 @@
 <p> I'm a Software  Engineer, passionate about Backend operations while creating reasonable frontends with JavaScript, and my two favorite forms of art: coding and gaming!</p>
 Additionally, I'm a tabletop RPG master, where I do my best to guide players through an amazing adventure 🎲
 <hr>
-I have 4+ years of experience in the software industry, where I have undertaken various types of work including freelancing, and software development in a robotics team, and I I currently hold a position as a Software Engineer at ReubenGold, where I play a pivotal role in designing and implementing responsive user interfaces, helping to create the front-end architecture, contributing to innovative feature development, and maintaining high-quality code standards, implementing my backend operations for scalable webapps.
+I have 3+ years of experience in the software industry, where I have undertaken various types of work including freelancing, and software development in a robotics team, and I I currently hold a position as a Software Engineer at ReubenGold, where I play a pivotal role in designing and implementing responsive user interfaces, helping to create the front-end architecture, contributing to innovative feature development, and maintaining high-quality code standards, implementing my backend operations for scalable web apps.
 <hr>
 
 
@@ -23,11 +21,8 @@ I have 4+ years of experience in the software industry, where I have undertaken 
 
 </center>
 
-<p align="left">
-<a href="https://linkedin.com/in/ibrahimfawuzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimfawuzan" height="30" width="40" /></a>
-</p>
 
-# 💻 Tech Stack:
+# 💻 Tech Tools:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
