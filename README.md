@@ -3,7 +3,6 @@
 <img style="padding:10px" align="right" width="220" src="https://i.pinimg.com/originals/d9/bb/49/d9bb49ceafc6488856d774d62fdfa478.jpg">
 
 <p> I'm a Software  Engineer, passionate about Backend operations while creating reasonable frontends with JavaScript, and my two favorite forms of art: coding and gaming!</p>
-Additionally, I'm a tabletop RPG master, where I do my best to guide players through an amazing adventure 🎲
 <hr>
 I have 3+ years of experience in the software industry, where I have undertaken various types of work including freelancing, and software development in fintech teams. I am a Software Engineer at ReubenGold, where I play a pivotal role in designing and implementing responsive user interfaces, contributing to innovative feature development, and maintaining high-quality code standards, implementing my backend operations for scalable web apps.
 <hr>
