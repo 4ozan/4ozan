@@ -15,7 +15,7 @@ I have 3+ years of experience in the software industry, where I have undertaken 
 <center>
 
 [Portfolio 👨‍🎓](https://fawuzan.vercel.app/)&nbsp;
-[LinkedIn 💼](https://www.linkedin.com/in/ibrahimfawuzan/)&nbsp;
+[LinkedIn 💼](https://www.linkedin.com/in/fawuzanibrahim/)&nbsp;
 
 
 </center>
