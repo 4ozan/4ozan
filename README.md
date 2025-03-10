@@ -1,13 +1,5 @@
 <h1>I'm <strong style="color:#41ded3">Fawuzan!</strong>  😄</h1>
 
-
-
-<p> I'm a Software  Engineer, passionate about Backend operations while creating reasonable frontends with JavaScript, and my two favorite forms of art: coding and gaming!</p>
-<hr>
-I have 3+ years of experience in the software industry, where I have undertaken various types of work, including freelancing and software development in fintech teams. I am a Software Engineer at ReubenGold. I play a pivotal role in designing and implementing responsive user interfaces, contributing to innovative feature development, maintaining high-quality code standards, and implementing my backend operations for scalable web apps.
-<hr>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="Pima" /> </p>
 
 <center>
