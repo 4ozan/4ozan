@@ -1,9 +1,4 @@
-
-
-<center>
 #  I'm Fawuzan 👋
-
-I'm a Software Engineer  building stuff  ****.
 
 ### Tech Stack
 - TypeScript
@@ -17,8 +12,6 @@ I'm a Software Engineer  building stuff  ****.
 
 
 
-
-</center>
 
 
 
