@@ -1,9 +1,7 @@
 #  I'm Fawuzan 👋
 
-### Tech Stack
-- TypeScript
-- Python
-- Go
+ TypeScript, Python, Go
+
 
 ### Connect with me
 - 📧 [Email me](mailto:hi.fawuzanibrahim@gmail.com)
