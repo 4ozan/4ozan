@@ -1,5 +1,5 @@
 #  I'm Fawuzan 👋
-Web wizard 🧙🏻‍♂️ and coffee enthusiast ☕️ currently building reactive/fullstack applications for
+Web wizard 🧙🏻‍♂️ and AI enthusiast ☕️ currently building reactive/full-stack applications.
 
 ![](https://img.shields.io/badge/JavaScript-TypeScript-%232F74C0)
 ![Go](https://img.shields.io/badge/Go-Golang-%2300ADD8)
