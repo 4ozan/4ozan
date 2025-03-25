@@ -1,9 +1,8 @@
 AI Software Engineer 👋
 currently building LLM-powered applications.
 
-![Typescript](https://img.shields.io/badge/TypeScript-%232F74C0)
-![Go](https://img.shields.io/badge/Golang-%2300ADD8)
-![Python](https://img.shields.io/badge/Python-%233776AB)
+![Typescript](https://img.shields.io/badge/TypeScript-%232F74C0style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-%2300ADD8style=for-the-badge&logo=golang&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
@@ -16,26 +15,6 @@ currently building LLM-powered applications.
 - 📧 [Email me](mailto:hi.fawuzanibrahim@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/fawuzanibrahim/)
 
-- #### Backend  
-- Java, Spring Boot, Go, Python, Node.js  
-
-#### Persistence  
-- ElasticSearch, MongoDB, Redis, MySQL, PostgreSQL, Oracle  
-
-#### Operations  
-- Kubernetes, AWS, Gradle, Maven, GitLab, SonarQube, GCP  
-
-#### Messaging  
-- RabbitMQ, Kafka  
-
-#### Frontend  
-- React, Angular, Vue.js, JavaScript 
-
-### 🎯 Responsibilities  
-
-1. Proposing, establishing, and implementing solutions and architectures to solve clients' business needs.  
-2. Providing technical leadership and mentoring for development and mixed teams.  
-3. Conducting technical training on Java, Spring, Design Patterns, Enterprise Integration Patterns, Software Architecture, and Unit Testing.  
 
 
 
