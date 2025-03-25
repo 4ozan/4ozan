@@ -1,5 +1,5 @@
 AI Software Engineer 👋
-currently building LLM-powered applications.
+currently building Fullstack LLM-powered applications.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/Golang-%2300ADD8?style=for-the-badge&logo=golang&logoColor=white)](https://go.dev/)
