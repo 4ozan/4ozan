@@ -1,6 +1,5 @@
 ## AI Software Engineer 👋  
 Currently building Fullstack LLM-powered applications.
-
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
