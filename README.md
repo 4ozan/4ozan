@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/TurboRepo-000000?style=flat-square&logo=vercel&logoColor=white" alt="TurboRepo" />
   <img src="https://img.shields.io/badge/tRPC-2C3E50?style=flat-square&logoColor=white" alt="tRPC" />
   <img src="https://img.shields.io/badge/BetterAuth-1E293B?style=flat-square&logo=auth0&logoColor=white" alt="BetterAuth" />
 </p>
