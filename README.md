@@ -1,1 +1,1 @@
-I love life, I like to build.  
+AI Fullstack Engineer, Product Mildy  
