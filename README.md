@@ -1,2 +1,2 @@
-AI Fullstack Engineer, Product Mildy  
+AI Fullstack Engineer, Product obsessed
 
