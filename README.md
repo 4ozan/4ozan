@@ -1,2 +1,1 @@
-AI Fullstack Engineer, Product obsessed
-
+AI Product Fullstack Engineer
