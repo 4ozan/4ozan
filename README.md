@@ -1,1 +1,1 @@
-AI Automations Engineer
+AI Automation Engineer
